@@ -1,5 +1,5 @@
 # To-Do Web App
-This is a simple and interactive To-Do Web Application developed as part of my internship at Skill Craft Technology.
+This is a simple and interactive To-Do Web Application.
 
 # Features:
 Add Tasks: Create tasks with a title and optional due date and time.
